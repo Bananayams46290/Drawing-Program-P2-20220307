@@ -54,7 +54,7 @@ void draw() {
   text(quitButtonString, quitButtonX, quitButtonY, quitButtonWidth, quitButtonHeight);
   //
   //Second Rectangle with More Text
-  rect();
+  //rect();
 }//End draw
 //
 void keyPressed() {
