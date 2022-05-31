@@ -17,7 +17,7 @@ void setup() {
 //
 void draw() {
   //
-  if () {
+  if (mouseX>=drawingSurfaceX && mouseX<=drawingSurfaceX+drawingSurfaceWidth && mouseY>=drawingSurfaceY && mouseY<=drawingSurfaceY+drawingSurfaceHeight) {
     pieceOfPaper();
   }
   //Drawing Tools, with a combined Boolean
